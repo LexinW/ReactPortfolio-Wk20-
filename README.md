@@ -37,3 +37,14 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
+
+
+## Getting started
+```md
+
+I copied over some of the files from a STU folder in the lesson folder for this week. I updated the pages and refactored all the code to display and work properly.
+Once I had all the pages layed out properly, I started to style a little and add some functionality. I also created a footer with a button to my github profile.
+I then added a form to the contact page, although it isn't linked to any database or stored anywhere, and it also brings me back to the main page which I couldn't figure out.
+```
+
+I still need to implement the resume and portfolio pages functionality, but im turning it what I have so far.
